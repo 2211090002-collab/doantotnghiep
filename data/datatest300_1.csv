@@ -1,0 +1,301 @@
+Disease,Symptom_Description,Age,Gender,Cholesterol,Blood_Pressure
+Bronchits,coughing yellow stuff and feeling hot,66,Female,high,High
+Influnza,hard to breathe after walking,30,Male,High,low bp
+Asthmaa,wet cough with green stuff,66,Female,Normal,normal
+Covid,noisy breathing when sleeping,17,Male,high,HIGH BP
+Influnza,noisy breathing when sleeping,57,Male,High,high
+Pneumonnia,can't breathe well at night,65,Female,High,high
+COPDD,hard to breathe after walking,60,Male,Low,Low
+Bronkitis,hard to breathe after walking,19,Male,normal,high
+Influensa,coughing yellow stuff and feeling hot,26,Female,HIGH,Normal
+Influnza,wet cough with green stuff,84,Male,HIGH,low bp
+COPDD,hot body and dry coughing,84,Female,low,normal
+Covid,can't breathe well at night,49,Male,High,Low
+COVID19,coughing yellow stuff and feeling hot,50,Male,NORMAL,normal
+Bronchits,hard to breathe after walking,27,Male,high,Low
+COVID19,wet cough with green stuff,64,Female,Low,Normal
+Asthema,lots of mucus every morning,60,Male,low,normal
+COVID19,wet cough with green stuff,78,Female,Low,high
+Pneumonnia,coughing yellow stuff and feeling hot,44,Male,High,normal
+Influnza,lots of mucus every morning,40,Male,low,HIGH BP
+Asma,coughing yellow stuff and feeling hot,17,Male,Low,low bp
+Pnuemonia,lots of mucus every morning,24,Female,HIGH,normal
+Pnemonia,lost smell and coughing,56,Male,Low,HIGH BP
+Influensa,lots of mucus every morning,37,Female,high,HIGH BP
+COVID19,can't breathe well at night,54,Female,Low,Normal
+Copd,can't breathe well at night,19,Male,low,low bp
+COVID19,noisy breathing when sleeping,78,Male,low,HIGH BP
+Pneumonnia,lots of mucus every morning,55,Male,Normal,low bp
+COPDD,hot body and dry coughing,16,Female,high,Normal
+Copd,lots of mucus every morning,47,Male,High,High
+Influensa,can't breathe well at night,36,Female,NORMAL,high
+Bronkitis,noisy breathing when sleeping,76,Male,Low,high
+Pneumonnia,lost smell and coughing,17,Female,normal,High
+Pnemonia,hard to breathe after walking,63,Male,Normal,normal
+Pnemonia,hot body and dry coughing,18,Female,Low,normal
+Influnza,coughing yellow stuff and feeling hot,27,Female,high,Normal
+Influensa,lost smell and coughing,53,Male,Normal,High
+Influensa,hard to breathe after walking,21,Female,High,high
+Pnemonia,hot body and dry coughing,40,Male,High,Normal
+Asthema,lost smell and coughing,25,Female,Normal,Low
+Influensa,hot body and dry coughing,48,Male,HIGH,Normal
+Bronkitis,lots of mucus every morning,38,Female,High,Low
+Influensa,lost smell and coughing,43,Female,High,Normal
+Copd,noisy breathing when sleeping,59,Female,high,normal
+Pnemonia,can't breathe well at night,83,Female,high,high
+Bronchits,can't breathe well at night,19,Male,Normal,low bp
+Influnza,hard to breathe after walking,42,Male,Low,High
+Influnza,can't breathe well at night,40,Male,normal,Low
+Copd,noisy breathing when sleeping,64,Female,low,low bp
+Bronkitis,coughing yellow stuff and feeling hot,81,Female,Normal,high
+Asthmaa,noisy breathing when sleeping,28,Male,normal,low bp
+Covid,can't breathe well at night,48,Female,NORMAL,normal
+Covid,coughing yellow stuff and feeling hot,37,Female,HIGH,Normal
+Covid,coughing yellow stuff and feeling hot,65,Female,high,High
+COPDD,lost smell and coughing,62,Male,low,low bp
+Bronkitis,lost smell and coughing,77,Male,high,Normal
+Bronkitis,lots of mucus every morning,49,Female,Normal,Normal
+Influnza,can't breathe well at night,77,Female,High,normal
+Asthmaa,lost smell and coughing,79,Female,Low,low bp
+COVID19,hard to breathe after walking,39,Male,High,Normal
+Pnemonia,coughing yellow stuff and feeling hot,61,Male,normal,Low
+Influensa,noisy breathing when sleeping,18,Male,low,high
+Covid,hard to breathe after walking,75,Female,low,Normal
+Bronchits,lost smell and coughing,18,Female,High,Normal
+COVID19,wet cough with green stuff,43,Male,normal,HIGH BP
+Influnza,coughing yellow stuff and feeling hot,75,Male,Low,normal
+Pneumonnia,lost smell and coughing,54,Female,HIGH,high
+Bronkitis,lost smell and coughing,42,Female,normal,HIGH BP
+Covid,noisy breathing when sleeping,15,Female,normal,Low
+Copd,hot body and dry coughing,23,Female,normal,HIGH BP
+Bronkitis,lost smell and coughing,53,Male,Low,normal
+Asthmaa,can't breathe well at night,55,Male,High,HIGH BP
+Influensa,lost smell and coughing,68,Female,HIGH,HIGH BP
+Pnuemonia,wet cough with green stuff,58,Male,NORMAL,HIGH BP
+Bronkitis,hard to breathe after walking,38,Female,Normal,high
+Asthema,lost smell and coughing,38,Female,Normal,Normal
+Bronchits,lost smell and coughing,68,Female,low,Low
+Covid,hot body and dry coughing,30,Female,High,low bp
+Copd,hot body and dry coughing,39,Male,HIGH,normal
+Bronkitis,coughing yellow stuff and feeling hot,34,Male,high,Low
+Influensa,hard to breathe after walking,55,Male,Normal,high
+Bronchits,lots of mucus every morning,22,Male,NORMAL,Low
+Asthmaa,hard to breathe after walking,77,Male,Low,normal
+Influensa,can't breathe well at night,69,Female,HIGH,High
+Pnuemonia,wet cough with green stuff,62,Male,low,low bp
+COVID19,coughing yellow stuff and feeling hot,15,Male,high,HIGH BP
+Bronkitis,hard to breathe after walking,28,Female,normal,Normal
+Pneumonnia,lost smell and coughing,52,Female,low,high
+Copd,lots of mucus every morning,77,Female,high,Normal
+Influnza,wet cough with green stuff,43,Male,high,HIGH BP
+Pnuemonia,hard to breathe after walking,30,Female,High,high
+COPDD,coughing yellow stuff and feeling hot,21,Male,High,High
+Copd,can't breathe well at night,71,Female,Normal,normal
+Bronkitis,hard to breathe after walking,41,Male,normal,high
+Copd,lost smell and coughing,32,Female,Normal,normal
+Copd,lost smell and coughing,29,Male,NORMAL,Normal
+COVID19,lost smell and coughing,81,Male,low,HIGH BP
+Influensa,hard to breathe after walking,20,Female,high,HIGH BP
+Influensa,wet cough with green stuff,15,Male,Normal,High
+Covid,hard to breathe after walking,26,Male,Normal,Low
+Copd,hot body and dry coughing,52,Female,NORMAL,High
+Pneumonnia,coughing yellow stuff and feeling hot,52,Female,low,high
+Copd,noisy breathing when sleeping,20,Male,Low,HIGH BP
+Copd,lots of mucus every morning,60,Female,normal,HIGH BP
+Pnemonia,lots of mucus every morning,38,Male,HIGH,high
+Influensa,can't breathe well at night,76,Female,Low,High
+Asthema,coughing yellow stuff and feeling hot,35,Male,HIGH,normal
+Influensa,hard to breathe after walking,63,Female,High,low bp
+Copd,hot body and dry coughing,77,Male,HIGH,high
+Pneumonnia,lost smell and coughing,55,Male,high,HIGH BP
+Bronchits,can't breathe well at night,46,Female,low,HIGH BP
+COPDD,hard to breathe after walking,21,Male,Low,normal
+Influensa,hard to breathe after walking,24,Female,low,Normal
+Bronkitis,coughing yellow stuff and feeling hot,79,Male,HIGH,high
+Asthmaa,hot body and dry coughing,71,Female,Normal,low bp
+Influensa,lots of mucus every morning,30,Female,High,High
+Influensa,coughing yellow stuff and feeling hot,85,Male,Normal,low bp
+Covid,wet cough with green stuff,73,Female,low,low bp
+Pneumonnia,hot body and dry coughing,57,Female,low,HIGH BP
+Influnza,noisy breathing when sleeping,43,Male,low,Low
+COPDD,lots of mucus every morning,28,Male,Low,high
+Asthema,can't breathe well at night,28,Female,high,Normal
+Pnemonia,wet cough with green stuff,73,Male,low,High
+Influnza,noisy breathing when sleeping,72,Female,Low,high
+Pnuemonia,coughing yellow stuff and feeling hot,85,Female,NORMAL,normal
+Asthema,hard to breathe after walking,31,Male,HIGH,HIGH BP
+Covid,can't breathe well at night,68,Male,normal,high
+Bronkitis,hot body and dry coughing,32,Male,HIGH,normal
+COPDD,lots of mucus every morning,85,Male,high,Normal
+Covid,lots of mucus every morning,31,Male,low,HIGH BP
+Pnemonia,hot body and dry coughing,68,Female,HIGH,low bp
+Pnuemonia,noisy breathing when sleeping,18,Female,Low,High
+Copd,wet cough with green stuff,49,Male,normal,HIGH BP
+Bronchits,coughing yellow stuff and feeling hot,52,Male,High,Low
+Influnza,wet cough with green stuff,64,Male,normal,HIGH BP
+Copd,can't breathe well at night,64,Female,low,normal
+Pneumonnia,lost smell and coughing,40,Female,high,HIGH BP
+COPDD,wet cough with green stuff,39,Female,NORMAL,Normal
+Copd,hard to breathe after walking,37,Male,HIGH,High
+Influensa,lost smell and coughing,31,Male,normal,High
+Bronkitis,hard to breathe after walking,20,Male,low,normal
+Pnuemonia,lost smell and coughing,77,Female,Normal,low bp
+COPDD,wet cough with green stuff,38,Male,Low,high
+Covid,noisy breathing when sleeping,59,Male,high,HIGH BP
+Bronkitis,lots of mucus every morning,52,Male,NORMAL,normal
+Copd,noisy breathing when sleeping,59,Female,high,HIGH BP
+COVID19,coughing yellow stuff and feeling hot,56,Female,Normal,high
+Bronkitis,coughing yellow stuff and feeling hot,81,Female,NORMAL,high
+Pnemonia,wet cough with green stuff,56,Male,Normal,Normal
+COVID19,noisy breathing when sleeping,41,Male,HIGH,low bp
+Pneumonnia,can't breathe well at night,24,Male,High,high
+COPDD,coughing yellow stuff and feeling hot,26,Male,High,Normal
+Bronchits,wet cough with green stuff,48,Female,HIGH,high
+COPDD,can't breathe well at night,55,Male,HIGH,HIGH BP
+Pnuemonia,coughing yellow stuff and feeling hot,23,Male,Normal,Low
+COVID19,lost smell and coughing,53,Male,normal,low bp
+Influensa,can't breathe well at night,18,Female,Low,normal
+Asthmaa,can't breathe well at night,84,Female,Low,Low
+COPDD,coughing yellow stuff and feeling hot,85,Male,Normal,High
+Pnuemonia,can't breathe well at night,83,Male,normal,Normal
+COPDD,wet cough with green stuff,67,Male,Low,Normal
+Asthema,lost smell and coughing,39,Male,Low,HIGH BP
+COVID19,hot body and dry coughing,85,Male,normal,HIGH BP
+Pnemonia,noisy breathing when sleeping,40,Female,low,Low
+Asthema,wet cough with green stuff,27,Female,Normal,Normal
+Bronkitis,hot body and dry coughing,57,Female,Low,normal
+Covid,lots of mucus every morning,69,Male,High,Low
+Asthmaa,can't breathe well at night,50,Female,Low,HIGH BP
+COPDD,hot body and dry coughing,74,Female,low,low bp
+Bronkitis,noisy breathing when sleeping,37,Male,normal,low bp
+Asthema,wet cough with green stuff,48,Male,Normal,High
+COVID19,can't breathe well at night,42,Male,normal,normal
+Covid,hard to breathe after walking,61,Female,high,low bp
+Covid,hard to breathe after walking,74,Male,HIGH,Low
+COVID19,wet cough with green stuff,36,Male,NORMAL,Normal
+Asthema,hard to breathe after walking,76,Female,High,Normal
+Influnza,noisy breathing when sleeping,48,Female,high,High
+Copd,lots of mucus every morning,64,Female,NORMAL,High
+Pnuemonia,lots of mucus every morning,28,Female,normal,normal
+COVID19,can't breathe well at night,63,Female,Normal,normal
+Bronkitis,wet cough with green stuff,81,Female,low,low bp
+Bronkitis,hot body and dry coughing,15,Male,NORMAL,Normal
+Asthmaa,lost smell and coughing,42,Male,Low,Normal
+Bronchits,wet cough with green stuff,68,Female,Normal,high
+COPDD,hot body and dry coughing,41,Male,HIGH,High
+Asthmaa,hard to breathe after walking,35,Male,High,normal
+Asthmaa,hard to breathe after walking,48,Male,HIGH,normal
+COVID19,lost smell and coughing,25,Male,NORMAL,normal
+Influensa,hard to breathe after walking,43,Female,Low,low bp
+COVID19,lost smell and coughing,36,Female,NORMAL,normal
+COVID19,wet cough with green stuff,63,Female,Low,High
+Pneumonnia,can't breathe well at night,34,Male,Low,high
+COVID19,noisy breathing when sleeping,26,Female,Low,normal
+COVID19,can't breathe well at night,81,Female,low,low bp
+Pnuemonia,can't breathe well at night,44,Female,HIGH,Low
+COVID19,can't breathe well at night,32,Female,NORMAL,low bp
+Asthmaa,lost smell and coughing,84,Female,normal,Normal
+Pnuemonia,coughing yellow stuff and feeling hot,81,Male,High,high
+Copd,lots of mucus every morning,67,Female,Normal,Normal
+Influensa,lost smell and coughing,83,Female,low,normal
+Bronkitis,wet cough with green stuff,67,Female,Low,Low
+Covid,lost smell and coughing,54,Female,HIGH,HIGH BP
+Asthema,noisy breathing when sleeping,44,Female,Low,High
+Asthema,can't breathe well at night,58,Male,Low,high
+Copd,noisy breathing when sleeping,33,Female,HIGH,High
+Pnemonia,wet cough with green stuff,62,Male,High,HIGH BP
+Influensa,lost smell and coughing,22,Male,NORMAL,high
+Pneumonnia,lost smell and coughing,39,Male,high,normal
+Asthema,coughing yellow stuff and feeling hot,61,Male,High,Normal
+Pnemonia,can't breathe well at night,60,Female,HIGH,normal
+Asthema,coughing yellow stuff and feeling hot,23,Male,normal,HIGH BP
+Covid,lots of mucus every morning,50,Male,high,high
+Influnza,lost smell and coughing,37,Female,Normal,normal
+Pnuemonia,lost smell and coughing,58,Male,normal,normal
+Covid,hot body and dry coughing,63,Female,high,low bp
+Bronkitis,hot body and dry coughing,18,Female,Normal,Low
+Pnemonia,wet cough with green stuff,44,Female,HIGH,Low
+COVID19,lost smell and coughing,46,Female,Normal,high
+COPDD,noisy breathing when sleeping,85,Male,NORMAL,Low
+Bronchits,lost smell and coughing,38,Male,NORMAL,HIGH BP
+Asthmaa,wet cough with green stuff,48,Male,high,Normal
+Asthema,lots of mucus every morning,34,Male,Normal,High
+COPDD,coughing yellow stuff and feeling hot,84,Male,NORMAL,Low
+Covid,hot body and dry coughing,50,Female,Low,low bp
+Covid,can't breathe well at night,43,Male,High,normal
+Influensa,coughing yellow stuff and feeling hot,79,Female,HIGH,low bp
+Copd,hot body and dry coughing,30,Female,low,HIGH BP
+Pneumonnia,wet cough with green stuff,63,Male,low,Low
+Covid,hard to breathe after walking,85,Female,high,Low
+Influensa,lots of mucus every morning,38,Female,HIGH,Normal
+Influensa,lots of mucus every morning,66,Female,NORMAL,Normal
+COVID19,wet cough with green stuff,27,Female,high,normal
+Influensa,wet cough with green stuff,33,Male,NORMAL,low bp
+Pneumonnia,can't breathe well at night,78,Male,low,low bp
+Influensa,lost smell and coughing,21,Female,Normal,HIGH BP
+Asthmaa,wet cough with green stuff,47,Female,Normal,high
+COPDD,lost smell and coughing,61,Female,normal,Low
+Pnemonia,noisy breathing when sleeping,59,Male,Low,low bp
+Bronkitis,lots of mucus every morning,80,Female,NORMAL,High
+Influensa,hot body and dry coughing,33,Male,low,high
+COPDD,noisy breathing when sleeping,25,Male,low,Normal
+Bronkitis,lost smell and coughing,49,Female,normal,high
+Bronkitis,can't breathe well at night,36,Male,High,Normal
+Copd,lost smell and coughing,25,Male,Low,high
+Pneumonnia,noisy breathing when sleeping,75,Male,High,low bp
+Influnza,noisy breathing when sleeping,48,Male,Normal,HIGH BP
+Influensa,wet cough with green stuff,46,Female,NORMAL,HIGH BP
+Asthmaa,hard to breathe after walking,18,Male,low,low bp
+Bronkitis,hot body and dry coughing,84,Female,NORMAL,Normal
+Copd,hot body and dry coughing,70,Female,low,high
+COVID19,noisy breathing when sleeping,71,Female,low,high
+Bronchits,lost smell and coughing,16,Male,Low,Low
+Bronkitis,coughing yellow stuff and feeling hot,77,Female,normal,High
+Influensa,wet cough with green stuff,15,Female,high,high
+Covid,can't breathe well at night,46,Male,HIGH,low bp
+Influnza,lost smell and coughing,25,Female,high,normal
+Covid,lost smell and coughing,83,Female,HIGH,Normal
+Pneumonnia,hard to breathe after walking,52,Male,NORMAL,normal
+Influensa,hot body and dry coughing,39,Female,High,Normal
+Pnuemonia,coughing yellow stuff and feeling hot,38,Male,normal,Low
+Asthema,hot body and dry coughing,16,Male,Normal,Normal
+Pnemonia,wet cough with green stuff,58,Female,normal,low bp
+Influensa,hot body and dry coughing,19,Female,Normal,low bp
+Asthmaa,lost smell and coughing,65,Male,NORMAL,Normal
+Asma,can't breathe well at night,16,Male,high,high
+Influnza,coughing yellow stuff and feeling hot,40,Female,Normal,normal
+Copd,hot body and dry coughing,64,Female,low,Normal
+Copd,noisy breathing when sleeping,47,Female,normal,Normal
+Bronchits,wet cough with green stuff,29,Male,HIGH,Low
+Pneumonnia,lost smell and coughing,30,Female,high,High
+Pnuemonia,hot body and dry coughing,34,Female,Normal,Normal
+Asma,noisy breathing when sleeping,58,Male,High,Low
+Copd,noisy breathing when sleeping,31,Female,high,Low
+Covid,hot body and dry coughing,39,Male,HIGH,Low
+Copd,lost smell and coughing,20,Female,NORMAL,normal
+Bronkitis,wet cough with green stuff,38,Female,low,HIGH BP
+Influensa,hard to breathe after walking,23,Male,NORMAL,Low
+Bronkitis,hot body and dry coughing,15,Female,Low,High
+Covid,wet cough with green stuff,56,Male,HIGH,Normal
+Covid,hard to breathe after walking,51,Female,HIGH,HIGH BP
+Bronchits,noisy breathing when sleeping,81,Male,High,low bp
+Asthmaa,coughing yellow stuff and feeling hot,40,Male,NORMAL,Normal
+Pneumonnia,can't breathe well at night,77,Female,High,Low
+Asthema,noisy breathing when sleeping,16,Male,NORMAL,low bp
+Pnemonia,coughing yellow stuff and feeling hot,61,Female,low,low bp
+Copd,lost smell and coughing,82,Male,Normal,low bp
+Bronchits,wet cough with green stuff,81,Male,Normal,HIGH BP
+Asthema,can't breathe well at night,39,Male,high,normal
+Copd,can't breathe well at night,28,Female,NORMAL,HIGH BP
+COPDD,noisy breathing when sleeping,36,Male,HIGH,normal
+Bronchits,hot body and dry coughing,60,Female,low,low bp
+Bronkitis,can't breathe well at night,56,Male,high,high
+Covid,lots of mucus every morning,72,Female,HIGH,High
+Copd,lost smell and coughing,17,Male,normal,High
+Bronchits,wet cough with green stuff,55,Male,normal,normal
+COVID19,noisy breathing when sleeping,19,Female,low,Normal
+Asma,lots of mucus every morning,46,Male,normal,low bp
+Bronchits,can't breathe well at night,42,Male,low,low bp
+Influnza,hot body and dry coughing,27,Female,High,HIGH BP
+Covid,noisy breathing when sleeping,22,Female,low,low bp
+Influensa,noisy breathing when sleeping,44,Male,HIGH,High

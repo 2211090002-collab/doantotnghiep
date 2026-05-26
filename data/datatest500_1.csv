@@ -1,0 +1,501 @@
+Disease,Symptom_Description,Age,Gender,Cholesterol,Blood_Pressure,Outcome
+Asthma,Wheezing and chest tightness at night,47,Male,Normal,Normal,Positive
+Asthma,Wheezing and chest tightness at night,66,Male,Normal,Normal,Positive
+Influenza,Fever chills and persistent dry cough,76,Male,Normal,Low,Positive
+Influenza,High temperature with tiredness,47,Male,Normal,Low,Positive
+COVID-19,Chest pressure and breathing difficulty,31,Male,High,High,Positive
+Asthma,Whistling sound while breathing,24,Female,High,High,Positive
+Pneumonia,Labored breathing with severe cough,80,Male,High,High,Positive
+Bronchitis,Chest tightness and mucus production,85,Male,Normal,Normal,Positive
+Influenza,Body aches and dry cough,22,Male,Normal,Low,Positive
+Bronchitis,Persistent coughing with wheezing,58,Male,High,High,Positive
+Influenza,Body aches and dry cough,21,Male,Normal,Normal,Positive
+Healthy,No signs of respiratory disease,46,Male,Normal,Low,Negative
+Influenza,Dry cough fatigue and high fever,52,Female,High,Normal,Positive
+Influenza,Body aches and dry cough,39,Female,High,Low,Positive
+COPD,Difficulty breathing with chronic phlegm,29,Male,Normal,Normal,Positive
+Bronchitis,Persistent coughing with wheezing,63,Female,Normal,Normal,Positive
+Healthy,No respiratory symptoms,18,Male,Low,Low,Negative
+Common Cold,Runny nose and mild cough,61,Female,Low,Low,Negative
+Pneumonia,Productive cough with yellow sputum and fever,80,Female,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,67,Male,High,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,76,Male,High,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,32,Male,Normal,High,Positive
+Healthy,No respiratory symptoms,26,Female,Normal,Low,Negative
+Pneumonia,Difficulty breathing and chest pain,84,Male,High,Normal,Positive
+Healthy,No respiratory symptoms,80,Male,Low,Normal,Negative
+COPD,Difficulty breathing with chronic phlegm,79,Female,High,Normal,Positive
+Influenza,Body aches and dry cough,63,Female,High,Low,Positive
+Asthma,Shortness of breath after exercise,40,Male,High,Normal,Positive
+Influenza,Fever chills and persistent dry cough,12,Male,Normal,Normal,Positive
+Asthma,Wheezing and chest tightness at night,54,Male,Normal,High,Positive
+Healthy,No fever or cough,81,Male,Normal,Low,Negative
+Healthy,No signs of respiratory disease,36,Male,Low,Normal,Negative
+COVID-19,Low oxygen saturation and cough,64,Female,Normal,High,Positive
+Asthma,Wheezing and chest tightness at night,63,Female,Normal,Normal,Positive
+Influenza,Fever chills and persistent dry cough,80,Female,Normal,Low,Positive
+COPD,Difficulty breathing with chronic phlegm,71,Male,High,High,Positive
+Asthma,Wheezing and chest tightness at night,81,Male,Normal,Normal,Positive
+COPD,Heavy smoker with productive cough,74,Female,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,60,Male,High,High,Positive
+Healthy,Healthy patient with no illness,66,Female,Low,Low,Negative
+Bronchitis,Wet cough with chest discomfort,19,Male,High,Normal,Positive
+Pneumonia,Labored breathing with severe cough,76,Male,High,Normal,Positive
+Asthma,Shortness of breath after exercise,20,Male,Normal,High,Positive
+Asthma,Shortness of breath after exercise,17,Male,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,52,Male,High,High,Positive
+COPD,Difficulty breathing with chronic phlegm,70,Female,High,High,Positive
+Healthy,No respiratory symptoms,21,Male,Normal,Low,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,43,Female,High,High,Positive
+Healthy,Healthy patient with no illness,79,Male,Normal,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,26,Male,Normal,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,48,Male,Normal,High,Positive
+Influenza,Body aches and dry cough,76,Female,High,Normal,Positive
+Asthma,Whistling sound while breathing,47,Male,Normal,High,Positive
+COPD,Difficulty breathing with chronic phlegm,32,Female,Normal,Normal,Positive
+Common Cold,Runny nose and mild cough,26,Male,Normal,Normal,Negative
+COVID-19,Difficulty taking deep breaths and fatigue,67,Male,High,High,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,57,Male,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,83,Female,Normal,Normal,Positive
+COPD,Morning cough with thick mucus,64,Male,High,Normal,Positive
+COVID-19,Low oxygen saturation and cough,43,Female,High,Normal,Positive
+Asthma,Whistling sound while breathing,16,Female,Normal,Normal,Positive
+Healthy,Healthy patient with no illness,51,Male,Low,Low,Negative
+Influenza,High temperature with tiredness,54,Female,Normal,Low,Positive
+COVID-19,Low oxygen saturation and cough,80,Female,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,45,Male,Normal,High,Positive
+COVID-19,Chest pressure and breathing difficulty,67,Male,High,Normal,Positive
+Influenza,Body aches and dry cough,17,Female,Normal,Normal,Positive
+COVID-19,Low oxygen saturation and cough,20,Female,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,76,Female,High,High,Positive
+Common Cold,Light coughing and nasal congestion,82,Male,Normal,Low,Negative
+Common Cold,Sneezing and sore throat,84,Female,Low,Normal,Negative
+Bronchitis,Chest tightness and mucus production,38,Female,High,High,Positive
+Healthy,No signs of respiratory disease,39,Female,Low,Low,Negative
+Bronchitis,Chest tightness and mucus production,23,Male,High,Normal,Positive
+Influenza,Fever chills and persistent dry cough,15,Male,Normal,Low,Positive
+Asthma,Whistling sound while breathing,65,Male,High,High,Positive
+Common Cold,Sneezing and sore throat,30,Male,Normal,Low,Negative
+Influenza,Fever chills and persistent dry cough,78,Female,Normal,Normal,Positive
+Asthma,Whistling sound while breathing,29,Female,High,High,Positive
+Common Cold,Mild cold symptoms,32,Female,Low,Low,Negative
+Influenza,Body aches and dry cough,78,Female,Normal,Low,Positive
+Healthy,No respiratory symptoms,48,Male,Normal,Normal,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,29,Male,High,High,Positive
+COPD,Morning cough with thick mucus,20,Female,High,High,Positive
+Healthy,No signs of respiratory disease,19,Male,Normal,Normal,Negative
+Pneumonia,Labored breathing with severe cough,73,Male,High,High,Positive
+Common Cold,Mild cold symptoms,80,Male,Low,Normal,Negative
+Bronchitis,Persistent coughing with wheezing,74,Male,High,High,Positive
+Common Cold,Sneezing and sore throat,71,Male,Normal,Low,Negative
+Pneumonia,Productive cough with yellow sputum and fever,66,Male,High,High,Positive
+Pneumonia,High fever with green sputum,60,Female,High,High,Positive
+COVID-19,Chest pressure and breathing difficulty,60,Female,High,High,Positive
+Asthma,Whistling sound while breathing,14,Male,High,Normal,Positive
+Asthma,Wheezing and chest tightness at night,15,Male,Normal,Normal,Positive
+COPD,Morning cough with thick mucus,28,Female,Normal,High,Positive
+Influenza,High temperature with tiredness,44,Female,Normal,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,25,Male,High,Normal,Positive
+Common Cold,Mild cold symptoms,37,Male,Normal,Normal,Negative
+Bronchitis,Persistent cough producing green phlegm,84,Male,High,High,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,76,Female,High,High,Positive
+Healthy,No respiratory symptoms,67,Female,Normal,Low,Negative
+Common Cold,Sneezing and sore throat,78,Female,Low,Low,Negative
+Common Cold,Light coughing and nasal congestion,53,Male,Normal,Low,Negative
+Healthy,No fever or cough,71,Female,Normal,Low,Negative
+Healthy,Healthy patient with no illness,35,Female,Low,Normal,Negative
+Bronchitis,Chest tightness and mucus production,47,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,64,Female,Normal,High,Positive
+Healthy,No signs of respiratory disease,14,Male,Normal,Low,Negative
+Common Cold,Sneezing and sore throat,51,Female,Low,Low,Negative
+Common Cold,Light coughing and nasal congestion,57,Female,Low,Low,Negative
+Bronchitis,Wet cough with chest discomfort,27,Male,High,Normal,Positive
+COPD,Morning cough with thick mucus,39,Female,High,Normal,Positive
+Bronchitis,Persistent cough producing green phlegm,36,Female,Normal,High,Positive
+COPD,Difficulty breathing with chronic phlegm,13,Male,High,High,Positive
+Pneumonia,High fever with green sputum,28,Female,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,73,Female,High,Normal,Positive
+Pneumonia,High fever with green sputum,73,Male,High,High,Positive
+Healthy,No respiratory symptoms,85,Male,Low,Low,Negative
+Bronchitis,Persistent cough producing green phlegm,43,Male,High,Normal,Positive
+Common Cold,Mild cold symptoms,68,Female,Low,Low,Negative
+Pneumonia,Productive cough with yellow sputum and fever,38,Male,High,Normal,Positive
+Asthma,Shortness of breath after exercise,42,Male,Normal,Normal,Positive
+Pneumonia,Labored breathing with severe cough,69,Female,High,High,Positive
+Influenza,Body aches and dry cough,48,Female,Normal,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,66,Male,Normal,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,21,Male,Normal,High,Positive
+Bronchitis,Persistent coughing with wheezing,27,Female,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,68,Male,Normal,High,Positive
+COVID-19,Chest pressure and breathing difficulty,15,Male,High,Normal,Positive
+Pneumonia,High fever with green sputum,85,Male,High,High,Positive
+Healthy,Healthy patient with no illness,35,Female,Normal,Low,Negative
+Healthy,Healthy patient with no illness,64,Female,Normal,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,64,Female,High,Normal,Positive
+Common Cold,Runny nose and mild cough,70,Male,Low,Low,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,63,Male,Normal,Normal,Positive
+Healthy,No signs of respiratory disease,18,Male,Normal,Normal,Negative
+Healthy,No respiratory symptoms,38,Female,Low,Normal,Negative
+Healthy,No signs of respiratory disease,27,Male,Low,Low,Negative
+Bronchitis,Persistent cough producing green phlegm,82,Female,Normal,Normal,Positive
+Asthma,Whistling sound while breathing,27,Male,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,73,Female,Normal,High,Positive
+COPD,Heavy smoker with productive cough,36,Male,High,High,Positive
+Common Cold,Light coughing and nasal congestion,76,Female,Normal,Low,Negative
+Bronchitis,Persistent coughing with wheezing,31,Female,High,High,Positive
+COVID-19,Low oxygen saturation and cough,70,Female,High,Normal,Positive
+Influenza,High temperature with tiredness,41,Female,Normal,Low,Positive
+Healthy,No signs of respiratory disease,61,Male,Normal,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,24,Female,High,Normal,Positive
+Healthy,No respiratory symptoms,30,Female,Low,Low,Negative
+Healthy,Healthy patient with no illness,55,Female,Low,Normal,Negative
+Common Cold,Light coughing and nasal congestion,74,Male,Normal,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,23,Female,Normal,Normal,Positive
+Healthy,No fever or cough,50,Male,Low,Normal,Negative
+Pneumonia,High fever with green sputum,57,Female,High,High,Positive
+Influenza,High temperature with tiredness,84,Male,Normal,Normal,Positive
+Asthma,Whistling sound while breathing,42,Female,Normal,Normal,Positive
+Healthy,Healthy patient with no illness,70,Female,Low,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,21,Female,High,High,Positive
+Common Cold,Light coughing and nasal congestion,70,Female,Normal,Low,Negative
+Healthy,No respiratory symptoms,42,Female,Normal,Normal,Negative
+Bronchitis,Persistent cough producing green phlegm,62,Female,Normal,Normal,Positive
+Healthy,Healthy patient with no illness,41,Female,Low,Low,Negative
+Bronchitis,Wet cough with chest discomfort,24,Male,High,High,Positive
+Pneumonia,High fever with green sputum,28,Male,High,High,Positive
+Common Cold,Sneezing and sore throat,37,Male,Low,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,73,Female,Normal,High,Positive
+Asthma,Whistling sound while breathing,21,Male,Normal,High,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,62,Male,High,Normal,Positive
+Asthma,Whistling sound while breathing,59,Female,High,High,Positive
+Asthma,Shortness of breath after exercise,72,Male,High,Normal,Positive
+Asthma,Whistling sound while breathing,50,Female,Normal,Normal,Positive
+Pneumonia,Productive cough with yellow sputum and fever,50,Female,High,High,Positive
+Influenza,Fever chills and persistent dry cough,61,Female,High,Low,Positive
+COPD,Heavy smoker with productive cough,24,Female,Normal,High,Positive
+Bronchitis,Persistent cough producing green phlegm,59,Male,High,High,Positive
+Influenza,Body aches and dry cough,24,Female,High,Normal,Positive
+Common Cold,Light coughing and nasal congestion,36,Male,Low,Normal,Negative
+Influenza,Dry cough fatigue and high fever,18,Female,Normal,Normal,Positive
+Influenza,Dry cough fatigue and high fever,82,Male,Normal,Normal,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,12,Female,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,26,Male,Normal,Normal,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,53,Male,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,65,Male,Normal,High,Positive
+Healthy,No signs of respiratory disease,58,Male,Normal,Low,Negative
+Pneumonia,High fever with green sputum,70,Male,High,High,Positive
+Common Cold,Mild cold symptoms,25,Female,Low,Normal,Negative
+Asthma,Nighttime wheezing and trouble breathing,30,Male,Normal,High,Positive
+COVID-19,Low oxygen saturation and cough,79,Female,High,Normal,Positive
+Common Cold,Runny nose and mild cough,26,Male,Low,Low,Negative
+Influenza,High temperature with tiredness,55,Female,High,Low,Positive
+Asthma,Nighttime wheezing and trouble breathing,66,Female,High,High,Positive
+COPD,Heavy smoker with productive cough,20,Male,High,High,Positive
+Common Cold,Runny nose and mild cough,59,Male,Normal,Low,Negative
+Asthma,Whistling sound while breathing,57,Female,Normal,High,Positive
+Bronchitis,Chest tightness and mucus production,25,Male,Normal,High,Positive
+Influenza,Dry cough fatigue and high fever,56,Female,Normal,Low,Positive
+Influenza,High temperature with tiredness,83,Male,High,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,51,Female,High,High,Positive
+COPD,Morning cough with thick mucus,84,Female,High,High,Positive
+Pneumonia,Productive cough with yellow sputum and fever,79,Male,High,High,Positive
+Healthy,Healthy patient with no illness,32,Female,Normal,Normal,Negative
+Asthma,Wheezing and chest tightness at night,31,Male,Normal,Normal,Positive
+Bronchitis,Persistent coughing with wheezing,66,Female,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,77,Male,High,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,74,Female,Normal,Normal,Positive
+Common Cold,Runny nose and mild cough,12,Male,Low,Normal,Negative
+COPD,Difficulty breathing with chronic phlegm,49,Female,High,High,Positive
+Healthy,No signs of respiratory disease,34,Male,Normal,Low,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,62,Male,High,High,Positive
+Healthy,No respiratory symptoms,52,Female,Normal,Normal,Negative
+Bronchitis,Persistent cough producing green phlegm,63,Male,High,Normal,Positive
+Healthy,Healthy patient with no illness,23,Female,Low,Low,Negative
+Common Cold,Mild cold symptoms,79,Male,Low,Low,Negative
+COVID-19,Difficulty taking deep breaths and fatigue,54,Male,High,Normal,Positive
+Asthma,Shortness of breath after exercise,56,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,44,Male,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,75,Female,High,High,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,68,Male,High,High,Positive
+Bronchitis,Chest tightness and mucus production,19,Female,Normal,High,Positive
+Healthy,No signs of respiratory disease,16,Male,Normal,Normal,Negative
+Asthma,Wheezing and chest tightness at night,76,Female,High,Normal,Positive
+Healthy,No fever or cough,53,Female,Low,Low,Negative
+Healthy,No respiratory symptoms,55,Male,Low,Low,Negative
+Influenza,High temperature with tiredness,68,Male,High,Low,Positive
+Bronchitis,Persistent coughing with wheezing,64,Female,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,24,Female,High,High,Positive
+COPD,Difficulty breathing with chronic phlegm,22,Male,High,High,Positive
+Common Cold,Sneezing and sore throat,22,Female,Low,Low,Negative
+COPD,Chronic cough with excessive mucus production,66,Female,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,39,Female,High,Normal,Positive
+Influenza,Fever chills and persistent dry cough,31,Male,High,Normal,Positive
+Pneumonia,High fever with green sputum,28,Female,High,High,Positive
+COPD,Morning cough with thick mucus,68,Male,High,High,Positive
+Influenza,High temperature with tiredness,48,Female,Normal,Normal,Positive
+Bronchitis,Persistent coughing with wheezing,36,Female,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,76,Female,Normal,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,18,Female,High,Normal,Positive
+Asthma,Wheezing and chest tightness at night,48,Male,Normal,High,Positive
+Healthy,No fever or cough,67,Male,Low,Normal,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,65,Male,High,Normal,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,61,Male,High,High,Positive
+Pneumonia,High fever with green sputum,24,Female,High,High,Positive
+Pneumonia,High fever with green sputum,72,Male,Normal,High,Positive
+Healthy,No respiratory symptoms,22,Male,Normal,Low,Negative
+COPD,Heavy smoker with productive cough,26,Female,High,High,Positive
+Asthma,Wheezing and chest tightness at night,42,Female,High,Normal,Positive
+Asthma,Whistling sound while breathing,80,Male,Normal,Normal,Positive
+Bronchitis,Persistent coughing with wheezing,12,Female,Normal,High,Positive
+COPD,Chronic cough with excessive mucus production,79,Female,High,Normal,Positive
+Pneumonia,Labored breathing with severe cough,72,Male,Normal,High,Positive
+COVID-19,Chest pressure and breathing difficulty,14,Female,High,High,Positive
+Influenza,Dry cough fatigue and high fever,54,Male,Normal,Low,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,71,Female,Normal,High,Positive
+COPD,Chronic cough with excessive mucus production,70,Male,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,17,Female,High,Normal,Positive
+Common Cold,Mild cold symptoms,44,Male,Normal,Low,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,54,Female,High,High,Positive
+Common Cold,Mild cold symptoms,68,Female,Low,Normal,Negative
+Healthy,No signs of respiratory disease,59,Female,Low,Normal,Negative
+Asthma,Whistling sound while breathing,35,Female,High,Normal,Positive
+Asthma,Nighttime wheezing and trouble breathing,49,Female,High,High,Positive
+COPD,Heavy smoker with productive cough,56,Female,High,Normal,Positive
+COVID-19,Low oxygen saturation and cough,47,Male,High,Normal,Positive
+Common Cold,Light coughing and nasal congestion,77,Male,Normal,Normal,Negative
+Healthy,No respiratory symptoms,28,Male,Low,Normal,Negative
+COVID-19,Low oxygen saturation and cough,84,Male,Normal,High,Positive
+Healthy,Healthy patient with no illness,59,Female,Low,Low,Negative
+COVID-19,Low oxygen saturation and cough,52,Female,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,75,Female,Normal,High,Positive
+Bronchitis,Chest tightness and mucus production,69,Male,High,High,Positive
+Influenza,Dry cough fatigue and high fever,29,Male,High,Normal,Positive
+Healthy,No respiratory symptoms,52,Female,Low,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,34,Female,Normal,Normal,Positive
+Influenza,Fever chills and persistent dry cough,42,Female,Normal,Low,Positive
+COVID-19,Low oxygen saturation and cough,82,Male,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,62,Female,High,High,Positive
+Asthma,Shortness of breath after exercise,52,Male,High,High,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,82,Male,High,High,Positive
+Pneumonia,Productive cough with yellow sputum and fever,78,Male,High,High,Positive
+COPD,Difficulty breathing with chronic phlegm,40,Female,Normal,High,Positive
+Asthma,Nighttime wheezing and trouble breathing,37,Female,Normal,High,Positive
+Asthma,Shortness of breath after exercise,31,Male,High,Normal,Positive
+Pneumonia,Productive cough with yellow sputum and fever,17,Female,Normal,High,Positive
+Common Cold,Runny nose and mild cough,75,Female,Low,Low,Negative
+Influenza,High temperature with tiredness,50,Female,Normal,Normal,Positive
+COPD,Heavy smoker with productive cough,65,Female,High,High,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,52,Female,Normal,High,Positive
+Common Cold,Sneezing and sore throat,59,Male,Low,Normal,Negative
+Healthy,No respiratory symptoms,46,Female,Low,Low,Negative
+Asthma,Wheezing and chest tightness at night,49,Female,High,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,85,Female,High,High,Positive
+Healthy,No signs of respiratory disease,75,Female,Normal,Low,Negative
+Asthma,Whistling sound while breathing,76,Female,Normal,Normal,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,18,Female,High,Normal,Positive
+Healthy,Healthy patient with no illness,80,Male,Low,Normal,Negative
+COPD,Difficulty breathing with chronic phlegm,58,Female,High,High,Positive
+Common Cold,Runny nose and mild cough,84,Male,Low,Low,Negative
+Asthma,Whistling sound while breathing,76,Female,High,Normal,Positive
+COPD,Chronic cough with excessive mucus production,62,Female,High,Normal,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,37,Female,Normal,High,Positive
+Pneumonia,Productive cough with yellow sputum and fever,29,Female,High,Normal,Positive
+Healthy,No fever or cough,77,Male,Normal,Normal,Negative
+COPD,Heavy smoker with productive cough,50,Female,Normal,Normal,Positive
+Healthy,Healthy patient with no illness,72,Male,Normal,Normal,Negative
+Asthma,Whistling sound while breathing,51,Male,High,High,Positive
+Influenza,Dry cough fatigue and high fever,73,Male,High,Normal,Positive
+Influenza,Dry cough fatigue and high fever,85,Male,Normal,Normal,Positive
+Healthy,Healthy patient with no illness,65,Male,Normal,Low,Negative
+Common Cold,Mild cold symptoms,19,Male,Normal,Low,Negative
+Healthy,No signs of respiratory disease,52,Male,Normal,Normal,Negative
+COVID-19,Chest pressure and breathing difficulty,73,Male,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,50,Female,Normal,High,Positive
+COVID-19,Low oxygen saturation and cough,56,Female,High,High,Positive
+Common Cold,Mild cold symptoms,56,Male,Low,Normal,Negative
+Bronchitis,Persistent cough producing green phlegm,56,Female,High,High,Positive
+Influenza,Fever chills and persistent dry cough,80,Female,High,Normal,Positive
+Asthma,Shortness of breath after exercise,43,Male,Normal,Normal,Positive
+Pneumonia,Productive cough with yellow sputum and fever,64,Female,Normal,High,Positive
+Asthma,Shortness of breath after exercise,12,Male,High,High,Positive
+Healthy,No fever or cough,48,Female,Normal,Low,Negative
+Asthma,Shortness of breath after exercise,80,Male,Normal,High,Positive
+COPD,Chronic cough with excessive mucus production,62,Female,High,Normal,Positive
+Bronchitis,Persistent cough producing green phlegm,13,Female,Normal,High,Positive
+Bronchitis,Persistent coughing with wheezing,81,Female,Normal,High,Positive
+Bronchitis,Wet cough with chest discomfort,26,Female,Normal,High,Positive
+Bronchitis,Wet cough with chest discomfort,13,Female,High,Normal,Positive
+COPD,Heavy smoker with productive cough,66,Female,High,High,Positive
+Asthma,Shortness of breath after exercise,29,Female,High,Normal,Positive
+Pneumonia,High fever with green sputum,61,Male,High,High,Positive
+COVID-19,Chest pressure and breathing difficulty,85,Male,High,Normal,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,19,Male,High,High,Positive
+COPD,Heavy smoker with productive cough,76,Female,Normal,High,Positive
+Bronchitis,Chest tightness and mucus production,40,Male,Normal,High,Positive
+COPD,Heavy smoker with productive cough,59,Female,Normal,Normal,Positive
+Healthy,No fever or cough,43,Male,Normal,Normal,Negative
+Asthma,Wheezing and chest tightness at night,19,Male,Normal,Normal,Positive
+COVID-19,Low oxygen saturation and cough,26,Male,Normal,Normal,Positive
+Healthy,No respiratory symptoms,77,Female,Low,Normal,Negative
+COPD,Heavy smoker with productive cough,70,Male,Normal,High,Positive
+Bronchitis,Persistent cough producing green phlegm,62,Female,Normal,Normal,Positive
+Asthma,Wheezing and chest tightness at night,66,Female,Normal,Normal,Positive
+Asthma,Whistling sound while breathing,16,Female,High,Normal,Positive
+COPD,Heavy smoker with productive cough,59,Female,High,High,Positive
+Common Cold,Runny nose and mild cough,81,Male,Low,Normal,Negative
+COPD,Heavy smoker with productive cough,79,Male,Normal,High,Positive
+Pneumonia,Productive cough with yellow sputum and fever,50,Female,Normal,Normal,Positive
+Common Cold,Mild cold symptoms,41,Male,Low,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,36,Male,High,Normal,Positive
+Common Cold,Runny nose and mild cough,42,Male,Normal,Normal,Negative
+Pneumonia,Labored breathing with severe cough,18,Male,Normal,High,Positive
+Common Cold,Mild cold symptoms,41,Male,Normal,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,85,Female,High,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,78,Male,High,High,Positive
+Bronchitis,Persistent cough producing green phlegm,83,Male,High,High,Positive
+Pneumonia,High fever with green sputum,60,Female,Normal,High,Positive
+Common Cold,Sneezing and sore throat,50,Female,Normal,Low,Negative
+Influenza,Fever chills and persistent dry cough,50,Male,High,Normal,Positive
+Common Cold,Mild cold symptoms,83,Male,Low,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,54,Male,High,High,Positive
+Asthma,Shortness of breath after exercise,18,Female,High,Normal,Positive
+Asthma,Shortness of breath after exercise,83,Male,High,Normal,Positive
+COVID-19,Chest pressure and breathing difficulty,13,Male,High,Normal,Positive
+Asthma,Whistling sound while breathing,43,Male,High,Normal,Positive
+COVID-19,Chest pressure and breathing difficulty,60,Female,Normal,Normal,Positive
+COVID-19,Chest pressure and breathing difficulty,45,Female,Normal,High,Positive
+Healthy,No respiratory symptoms,72,Female,Low,Normal,Negative
+COVID-19,Low oxygen saturation and cough,17,Male,Normal,High,Positive
+Pneumonia,High fever with green sputum,82,Female,High,High,Positive
+Influenza,Body aches and dry cough,41,Female,Normal,Low,Positive
+COVID-19,Chest pressure and breathing difficulty,74,Female,High,High,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,29,Female,High,Normal,Positive
+Pneumonia,Productive cough with yellow sputum and fever,21,Male,High,High,Positive
+COPD,Morning cough with thick mucus,20,Male,High,High,Positive
+Healthy,Healthy patient with no illness,19,Female,Normal,Low,Negative
+Pneumonia,Labored breathing with severe cough,13,Male,Normal,Normal,Positive
+Bronchitis,Chest tightness and mucus production,14,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,42,Male,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,22,Female,High,High,Positive
+Influenza,Fever chills and persistent dry cough,50,Male,Normal,Normal,Positive
+Common Cold,Mild cold symptoms,60,Female,Normal,Normal,Negative
+COPD,Chronic cough with excessive mucus production,75,Female,Normal,High,Positive
+Asthma,Wheezing and chest tightness at night,41,Male,High,High,Positive
+Pneumonia,Productive cough with yellow sputum and fever,47,Male,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,30,Female,High,High,Positive
+COPD,Morning cough with thick mucus,84,Female,Normal,Normal,Positive
+COVID-19,Low oxygen saturation and cough,29,Male,Normal,Normal,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,24,Female,High,High,Positive
+COVID-19,Low oxygen saturation and cough,53,Male,Normal,High,Positive
+Healthy,No signs of respiratory disease,41,Female,Normal,Normal,Negative
+COPD,Heavy smoker with productive cough,22,Female,High,Normal,Positive
+Asthma,Wheezing and chest tightness at night,46,Male,High,Normal,Positive
+Common Cold,Light coughing and nasal congestion,58,Male,Normal,Normal,Negative
+Bronchitis,Persistent coughing with wheezing,58,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,67,Female,High,Normal,Positive
+Pneumonia,Productive cough with yellow sputum and fever,57,Male,Normal,Normal,Positive
+COVID-19,Low oxygen saturation and cough,13,Female,High,High,Positive
+Asthma,Shortness of breath after exercise,85,Male,High,Normal,Positive
+COPD,Difficulty breathing with chronic phlegm,50,Female,High,High,Positive
+Asthma,Shortness of breath after exercise,67,Female,High,High,Positive
+Healthy,No respiratory symptoms,58,Female,Low,Normal,Negative
+Influenza,High temperature with tiredness,25,Male,High,Normal,Positive
+Common Cold,Light coughing and nasal congestion,60,Female,Low,Low,Negative
+Common Cold,Sneezing and sore throat,50,Female,Normal,Low,Negative
+COVID-19,Difficulty taking deep breaths and fatigue,62,Female,High,Normal,Positive
+Healthy,No fever or cough,53,Female,Normal,Normal,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,84,Male,Normal,Normal,Positive
+COPD,Chronic cough with excessive mucus production,71,Male,High,High,Positive
+Asthma,Whistling sound while breathing,75,Male,High,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,66,Female,Normal,High,Positive
+Healthy,No signs of respiratory disease,80,Female,Low,Normal,Negative
+Asthma,Wheezing and chest tightness at night,43,Female,Normal,Normal,Positive
+Common Cold,Light coughing and nasal congestion,67,Male,Normal,Normal,Negative
+Bronchitis,Wet cough with chest discomfort,77,Male,High,High,Positive
+Common Cold,Mild cold symptoms,76,Male,Low,Normal,Negative
+Healthy,No respiratory symptoms,49,Female,Low,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,51,Female,High,High,Positive
+Healthy,Healthy patient with no illness,72,Male,Normal,Normal,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,50,Male,Normal,High,Positive
+Pneumonia,High fever with green sputum,25,Male,Normal,High,Positive
+COPD,Morning cough with thick mucus,54,Female,High,High,Positive
+Common Cold,Sneezing and sore throat,35,Female,Low,Normal,Negative
+Influenza,High temperature with tiredness,66,Female,Normal,Normal,Positive
+Influenza,Body aches and dry cough,20,Male,Normal,Low,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,70,Male,High,Normal,Positive
+Healthy,Healthy patient with no illness,61,Female,Low,Normal,Negative
+COVID-19,Low oxygen saturation and cough,34,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,52,Male,Normal,High,Positive
+Asthma,Shortness of breath after exercise,59,Male,High,High,Positive
+COPD,Heavy smoker with productive cough,66,Male,High,Normal,Positive
+COPD,Morning cough with thick mucus,74,Female,High,High,Positive
+COVID-19,Low oxygen saturation and cough,18,Female,High,High,Positive
+COPD,Morning cough with thick mucus,61,Female,High,Normal,Positive
+Healthy,No signs of respiratory disease,68,Female,Low,Low,Negative
+Pneumonia,Difficulty breathing and chest pain,49,Male,High,High,Positive
+Bronchitis,Wet cough with chest discomfort,70,Female,Normal,Normal,Positive
+Bronchitis,Chest tightness and mucus production,81,Male,High,Normal,Positive
+Common Cold,Runny nose and mild cough,43,Female,Normal,Low,Negative
+Bronchitis,Chest tightness and mucus production,23,Female,Normal,Normal,Positive
+Influenza,Body aches and dry cough,66,Male,Normal,Normal,Positive
+Influenza,Dry cough fatigue and high fever,84,Female,High,Normal,Positive
+COVID-19,Chest pressure and breathing difficulty,49,Female,Normal,Normal,Positive
+Asthma,Shortness of breath after exercise,64,Male,High,Normal,Positive
+COPD,Morning cough with thick mucus,30,Female,High,Normal,Positive
+Common Cold,Mild cold symptoms,30,Female,Low,Low,Negative
+Healthy,No respiratory symptoms,23,Female,Normal,Normal,Negative
+Healthy,No signs of respiratory disease,53,Male,Low,Normal,Negative
+COVID-19,Loss of smell dry cough and shortness of breath,80,Female,High,High,Positive
+Influenza,High temperature with tiredness,46,Female,High,Low,Positive
+COPD,Heavy smoker with productive cough,55,Male,High,High,Positive
+Healthy,No respiratory symptoms,27,Male,Normal,Normal,Negative
+Pneumonia,Labored breathing with severe cough,37,Male,Normal,High,Positive
+COPD,Difficulty breathing with chronic phlegm,23,Female,High,High,Positive
+COVID-19,Difficulty taking deep breaths and fatigue,18,Female,Normal,High,Positive
+Influenza,High temperature with tiredness,23,Male,Normal,Normal,Positive
+Healthy,No respiratory symptoms,28,Male,Normal,Low,Negative
+Pneumonia,High fever with green sputum,27,Female,Normal,High,Positive
+Healthy,No respiratory symptoms,41,Female,Low,Low,Negative
+Asthma,Nighttime wheezing and trouble breathing,59,Female,Normal,High,Positive
+COPD,Morning cough with thick mucus,20,Male,Normal,Normal,Positive
+COPD,Heavy smoker with productive cough,56,Male,Normal,Normal,Positive
+COPD,Heavy smoker with productive cough,68,Male,High,High,Positive
+COPD,Chronic cough with excessive mucus production,61,Female,High,High,Positive
+COPD,Morning cough with thick mucus,47,Male,High,Normal,Positive
+Bronchitis,Persistent cough producing green phlegm,50,Male,Normal,High,Positive
+Bronchitis,Persistent cough producing green phlegm,42,Female,High,Normal,Positive
+Influenza,High temperature with tiredness,21,Male,High,Low,Positive
+COPD,Heavy smoker with productive cough,84,Female,High,Normal,Positive
+COPD,Heavy smoker with productive cough,21,Male,Normal,High,Positive
+Pneumonia,High fever with green sputum,39,Male,High,High,Positive
+Bronchitis,Persistent coughing with wheezing,66,Female,Normal,Normal,Positive
+Bronchitis,Persistent cough producing green phlegm,51,Male,Normal,Normal,Positive
+COVID-19,Low oxygen saturation and cough,20,Female,Normal,High,Positive
+Influenza,Dry cough fatigue and high fever,43,Male,High,Normal,Positive
+Healthy,No respiratory symptoms,51,Male,Low,Low,Negative
+COPD,Chronic cough with excessive mucus production,32,Female,High,Normal,Positive
+Bronchitis,Wet cough with chest discomfort,59,Male,High,Normal,Positive
+Pneumonia,High fever with green sputum,66,Female,Normal,High,Positive
+Bronchitis,Persistent cough producing green phlegm,75,Female,High,Normal,Positive
+Healthy,No fever or cough,59,Male,Normal,Low,Negative
+Asthma,Shortness of breath after exercise,77,Male,Normal,Normal,Positive
+Influenza,Dry cough fatigue and high fever,72,Female,High,Normal,Positive
+COPD,Chronic cough with excessive mucus production,82,Female,High,High,Positive
+Influenza,High temperature with tiredness,52,Female,Normal,Low,Positive
+Asthma,Wheezing and chest tightness at night,34,Male,Normal,High,Positive
+Asthma,Whistling sound while breathing,48,Female,High,Normal,Positive
+Healthy,No respiratory symptoms,59,Male,Normal,Normal,Negative
+Influenza,High temperature with tiredness,59,Female,Normal,Normal,Positive
+COPD,Chronic cough with excessive mucus production,64,Male,High,Normal,Positive
+COVID-19,Loss of smell dry cough and shortness of breath,54,Male,Normal,High,Positive
+Bronchitis,Persistent cough producing green phlegm,38,Male,High,High,Positive
+Pneumonia,Difficulty breathing and chest pain,47,Male,High,High,Positive
+Common Cold,Light coughing and nasal congestion,70,Male,Normal,Normal,Negative
+Common Cold,Runny nose and mild cough,84,Male,Low,Normal,Negative
+Influenza,Body aches and dry cough,45,Female,High,Low,Positive
+COVID-19,Low oxygen saturation and cough,46,Male,High,High,Positive
+COPD,Chronic cough with excessive mucus production,31,Male,High,High,Positive
+Healthy,Healthy patient with no illness,64,Male,Normal,Low,Negative
+Healthy,Healthy patient with no illness,71,Female,Low,Low,Negative
+COPD,Difficulty breathing with chronic phlegm,17,Male,High,High,Positive
+Asthma,Shortness of breath after exercise,57,Female,Normal,High,Positive
