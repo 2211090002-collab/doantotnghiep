@@ -54,7 +54,7 @@ Hệ thống hỗ trợ đánh giá nguy cơ mắc các bệnh về đường h�
 | Python | 3.10+ |
 | PHP | 8.0+ |
 | MySQL | 8.0+ |
-| WordPress | 6.0+ |
+| WordPress | 7.0+ |
 | RAM | 8 GB |
 
 ---
