@@ -46,6 +46,7 @@ Hệ thống hỗ trợ đánh giá nguy cơ mắc các bệnh về đường h�
 
 ---
 
+
 ## ⚙️ Yêu cầu môi trường
 
 | Thành phần | Phiên bản tối thiểu |
@@ -94,25 +95,75 @@ API mặc định chạy tại `http://localhost:5000`.
 ### Bước 5 — Cài đặt và cấu hình WordPress
 
 1. Cài đặt WordPress theo hướng dẫn tại [wordpress.org](https://wordpress.org/support/article/how-to-install-wordpress/)
-2. Cấu hình file `wp-config.php` với thông tin kết nối database
-3. Cài đặt plugin kết nối với Flask API (xem thư mục `wordpress-plugin/`)
-4. Nhập cấu hình theme và trang từ file `wordpress-export.xml` (nếu có)
+2. Cấu hình file `wp-config.php` với thông tin kết nối database (dùng schema `rrp` trong thư mục `mysql/`)
+3. Sao chép thư mục `rnp/` vào `wp-content/themes/rnp/`
+4. Kích hoạt theme **rnp** trong WordPress Admin → Appearance → Themes
+5. Tạo các trang (Pages) tương ứng và gán đúng page template (`page-assessment.php`, `page-dashboard.php`, v.v.)
+6. Cấu hình URL Flask API trong `functions.php` (biến `RNP_API_URL`)
 
 ---
 
 ## 📂 Cấu trúc thư mục
 
 ```
-doantotnghiep/
-├── api/app.py                  # Flask API chính
-├── model.py                # Huấn luyện mô hình học máy
-├── import_data.py          # Khởi tạo & nhập dữ liệu vào MySQL
-├── data/                   # Dữ liệu thô và dữ liệu đã xử lý
-├── wordpress-plugin/       # Plugin WordPress kết nối API
-└── README.md
+project/
+│
+├── api/app.py                      # Khởi động Flask API
+├── model.py                    # Huấn luyện & lưu mô hình ML
+├── import_data.py              # Nhập dữ liệu vào MySQL
+├── ctruc1.dia                   # Cấu hình cấu trúc dữ liệu
+├── README.md
+│
+├── data/                           # Dữ liệu đầu vào
+│   ├── Bộ dữ liệu triệu chứng bệnh và hồ sơ bệnh nhân.xlxs
+│   │                               # Dữ liệu đầu vào gốc (tiếng Việt)
+│   ├── Disease_symptom_and_patient_profile_dataset.csv
+│   │                               # Dữ liệu đầu vào gốc (tiếng Anh)
+│   ├── ICD10.xlsx                  # Danh mục mã bệnh ICD-10
+│   ├── ICD10.viv.xlsx              # Danh mục ICD-10 (tiếng Việt)
+│   ├── dataset1_csv.csv            # Tập dữ liệu nhập vào 1
+│   ├── dataset500_1.csv            # Tập dữ liệu nhập vào 2
+│   └── dichicd.py                  # Script dịch nhãn ICD
+│
+├── mysql/                          # Cơ sở dữ liệu
+│   ├── rnp/                        # Schema chính (các bảng .frm/.ibd)
+│   │   ├── rip_activation_...      # Bảng kích hoạt người dùng
+│   │   ├── rip_activity_log...     # Nhật ký hoạt động
+│   │   ├── rip_articles.*          # Bài viết / tài liệu y tế
+│   │   ├── rip_assessment.*        # Kết quả đánh giá nguy cơ
+│   │   ├── rip_dataset_ver...      # Phiên bản tập dữ liệu
+│   │   ├── rip_diseases.*          # Danh mục bệnh hô hấp
+│   │   ├── rip_models.*            # Metadata mô hình ML
+│   │   ├── rip_predictions.*       # Kết quả dự đoán
+│   │   ├── rip_raw_data.*          # Dữ liệu thô người dùng nhập
+│   │   ├── rip_roc_curve.*         # Dữ liệu đường cong ROC
+│   │   ├── rip_roles.*             # Phân quyền người dùng
+│   │   ├── rip_stats_cache.*       # Cache thống kê
+│   │   ├── rip_symptoms.*          # Danh mục triệu chứng
+│   │   ├── rip_system_con...       # Cấu hình hệ thống
+│   │   ├── wp_*.*                  # Các bảng WordPress tích hợp
+│   │   └── db.opt                  # Tùy chọn charset database
+│   └── README.md
+│
+└── rnp/                            # WordPress Frontend (PHP)
+    ├── assets/
+    │   ├── css/rnp-custom.css      # CSS tùy chỉnh giao diện
+    │   └── js/rnp-dashboard...    # JS dashboard thống kê
+    ├── functions.php               # Đăng ký hook & tính năng WordPress
+    ├── page-admin.php              # Trang quản trị hệ thống
+    ├── page-article.php            # Trang bài viết y tế
+    ├── page-assessment.php         # Trang đánh giá nguy cơ (chính)
+    ├── page-chatbot.php            # Trang chatbot hỏi đáp triệu chứng
+    ├── page-dashboard.php          # Dashboard thống kê & biểu đồ
+    ├── page-home.php               # Trang chủ
+    ├── page-list.php               # Danh sách lịch sử đánh giá
+    ├── page-login.php              # Đăng nhập
+    ├── page-register.php           # Đăng ký tài khoản
+    └── README.md
 ```
 
 ---
+
 
 ## 📬 Liên hệ
 
