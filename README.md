@@ -96,10 +96,10 @@ API mặc định chạy tại `http://localhost:5000`.
 
 1. Cài đặt WordPress theo hướng dẫn tại [wordpress.org](https://wordpress.org/support/article/how-to-install-wordpress/)
 2. Cấu hình file `wp-config.php` với thông tin kết nối database (dùng schema `rrp` trong thư mục `mysql/`)
-3. Sao chép thư mục `rnp/` vào `wp-content/themes/rnp/`
-4. Kích hoạt theme **rnp** trong WordPress Admin → Appearance → Themes
+3. Sao chép thư mục `rrp/` vào `wp-content/themes/rrp/`
+4. Kích hoạt theme **rrp** trong WordPress Admin → Appearance → Themes
 5. Tạo các trang (Pages) tương ứng và gán đúng page template (`page-assessment.php`, `page-dashboard.php`, v.v.)
-6. Cấu hình URL Flask API trong `functions.php` (biến `RNP_API_URL`)
+6. Cấu hình URL Flask API trong `functions.php`
 
 ---
 
@@ -126,7 +126,7 @@ project/
 │   └── dichicd.py                  # Script dịch nhãn ICD
 │
 ├── mysql/                          # Cơ sở dữ liệu
-│   ├── rnp/                        # Schema chính (các bảng .frm/.ibd)
+│   ├── rrp/                        # Schema chính (các bảng .frm/.ibd)
 │   │   ├── rip_activation_...      # Bảng kích hoạt người dùng
 │   │   ├── rip_activity_log...     # Nhật ký hoạt động
 │   │   ├── rip_articles.*          # Bài viết / tài liệu y tế
@@ -145,10 +145,10 @@ project/
 │   │   └── db.opt                  # Tùy chọn charset database
 │   └── README.md
 │
-└── rnp/                            # WordPress Frontend (PHP)
+└── rrp/                            # WordPress Frontend (PHP)
     ├── assets/
-    │   ├── css/rnp-custom.css      # CSS tùy chỉnh giao diện
-    │   └── js/rnp-dashboard...    # JS dashboard thống kê
+    │   ├── css/rrp-custom.css      # CSS tùy chỉnh giao diện
+    │   └── js/rrp-dashboard...    # JS dashboard thống kê
     ├── functions.php               # Đăng ký hook & tính năng WordPress
     ├── page-admin.php              # Trang quản trị hệ thống
     ├── page-article.php            # Trang bài viết y tế
